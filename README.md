@@ -39,8 +39,8 @@ profile:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Project Horizon] | Distributed computing framework | Go, gRPC, Kubernetes |
-| [Data Nexus] | Machine learning pipeline | Python, TensorFlow, Apache Spark |
+| [Social Recipe]() | Recipe sharing app | React Native, Python, Oracle |
+| [Handwritten Mathematical Equation Transcriber](https://github.com/johnkimdw/handwritten-math-transcription) | HME --> LaTeX --> Correted LaTeX | Python, PyTorch |
 
 ## Performance Metrics
 
