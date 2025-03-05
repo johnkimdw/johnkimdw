@@ -4,12 +4,12 @@
 
 ```yaml
 profile:
-  focus: Crafting elegant solutions
-  philosophy: Code as a form of art
+  focus: researching...
+  philosophy: learn for fun
   current_interests:
-    - Distributed Systems
-    - Machine Learning
-    - Open Source Collaboration
+    - Graph Neural Networks
+    - Machine Unlearning
+    - React Native
 ```
 
 ## Technologies
@@ -28,15 +28,13 @@ profile:
 
 ## Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnkimdw&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkimdw&layout=compact&theme=dark&hide_border=true)
 
 ## Contact
 
-[hello@yourdomain.com](mailto:hello@yourdomain.com) | 
-[LinkedIn](https://linkedin.com/in/yourusername) | 
-[Personal Website](https://yourdomain.com)
+[john.kim.dongwhi@gmail.com](mailto:john.kim.dongwhi@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/dongwhi-john-kim) | 
+[Personal Website](https://johnkimdw.com)
 
 ---
-
-*Transforming complexity into simplicity, one line of code at a time.*
