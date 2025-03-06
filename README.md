@@ -32,10 +32,10 @@ $ ls -la interests/
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#### Conferences
+## Conferences (1st author)
 ![IDA 2025](https://img.shields.io/badge/IDA-2025%20International%20Data%20Symposium-0077BE?logo=data&logoColor=white)
 
-## Selected Projects
+## In Progress...
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
