@@ -5,10 +5,10 @@ $ whoami
 > Curious researcher, tinkerer, and persistent (but uncoordinated) dancer
 
 $ cat motivation.txt
-> hard work always pays off
+> hard work pays off
 
 $ ls interests/
-> learning  research  dancing  dogs :)
+> dancing  cooking  brawlstars  dogs :)
 ```
 
 
