@@ -1,16 +1,16 @@
-# John Kim
+# What's up. I'm John Kim!
 
-**ML/AI SDE Intern @ Amazon | ML Research Assistant @ Lucy**
+```bash
+$ whoami
+> Curious researcher, tinkerer, and persistent (but uncoordinated) dancer
 
-```yaml
-profile:
-  focus: researching...
-  philosophy: learn for fun
-  current_interests:
-    - Graph Neural Networks
-    - Machine Unlearning
-    - React Native
+$ cat motivation.txt
+> hard work always pays off
+
+$ ls -la interests/
+> learning  research  dancing  dogs :)
 ```
+
 
 ## Technologies
 
