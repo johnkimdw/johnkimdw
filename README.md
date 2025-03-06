@@ -7,7 +7,7 @@ $ whoami
 $ cat motivation.txt
 > hard work always pays off
 
-$ ls -la interests/
+$ ls interests/
 > learning  research  dancing  dogs :)
 ```
 
