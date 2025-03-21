@@ -1,16 +1,6 @@
 # What's up. I'm John Kim!
 
-```bash
-$ whoami
-> Curious researcher, tinkerer, and persistent (but uncoordinated) dancer
-
-$ cat motivation.txt
-> hard work pays off
-
-$ ls interests/
-> dancing  cooking  brawlstars  dogs :)
-```
-
+I like dancing, cooking, playing brawlstars, and dogs :)
 
 ## Technologies
 
