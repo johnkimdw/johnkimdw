@@ -30,7 +30,7 @@ I like dancing, cooking, playing brawlstars, and dogs :)
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Social Recipe]() | Recipe sharing app | React Native, Python, Oracle |
-| [Handwritten Mathematical Equation Transcriber](https://github.com/johnkimdw/handwritten-math-transcription) | HME --> LaTeX --> Correted LaTeX | Python, PyTorch |
+| [Handwritten Mathematical Equation Transcriber](https://github.com/johnkimdw/handwritten-math-transcription) | HME --> LaTeX --> Corrected LaTeX | Python, PyTorch |
 
 ## Performance Metrics
 
