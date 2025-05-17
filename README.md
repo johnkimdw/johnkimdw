@@ -1,8 +1,9 @@
 # hi im john
 
 I like cooking, dancing, and dogs.
+I dont like the first and last together.
 
-I also code.
+I also code :)
 
 ## Contact
 
