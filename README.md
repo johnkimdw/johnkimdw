@@ -1,4 +1,4 @@
-# :) What's up. I'm John Kim!
+# hi im john
 
 I like cooking, dancing, and dogs.
 
