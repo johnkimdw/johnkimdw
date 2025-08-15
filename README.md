@@ -12,7 +12,9 @@ I also code :)
 ## Contact
 
 [john.kim.dongwhi@gmail.com](mailto:john.kim.dongwhi@gmail.com) | 
+[X](https://x.com/johnkimdw) |
 [LinkedIn](https://www.linkedin.com/in/dongwhi-john-kim) | 
 [Personal Website](https://johnkimdw.com)
+
 
 ---
