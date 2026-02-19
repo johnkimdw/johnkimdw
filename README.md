@@ -7,10 +7,10 @@ i also code :)
 
 ## my research interests
 
-still refining my research tastes. right now though, it is on building trustworthy, reliable ai systems (llms)
-1) better evaluations to identify failure modes before they reach end-users (benchmarking)
-2) understand why these failure modes occur (interpretability)
-3) and fix/align models to prevent them (steering)
+still refining my research tastes. right now though, it is on building trustworthy, reliable ai systems (llms). more specifically:
+1) build rigorous evaluations to identify safety issues (benchmarking)
+2) understand why these failures occur (interpretability)
+3) align models to prevent them (steering)
 
 i also like open-source work, especially dspy, and programming ai, not prompting
 
